@@ -12,17 +12,17 @@
 # ║                                                                      ║
 # ║  Change it to "portfolio" once you have filled in your details.      ║
 # ╚══════════════════════════════════════════════════════════════════════╝
-siteMode: "landing"   # ← CHANGE THIS to "portfolio"
+siteMode: "Портфолио"   # ← CHANGE THIS to "portfolio"
 siteUrl:  "https://yourusername.github.io"  # ← Your GitHub Pages URL (used for RSS & canonical links)
 showPoweredBy: false  # Set to true to show a small "Made with GitVitae" badge in your footer (helps others discover GitVitae)
 
 # ── Identity ───────────────────────────────────────────── (required) ──
-name: "Git Vitae"              # Your name — shown in the header and used as a fallback in the avatar
-title: "Portfolio-Resume Engineer"
-tagline: "I build free portfolios and resumes for everyone."
-email: "git-vitae@proton.me"
-phone: ""                    # Optional — e.g. "+1 (555) 000-1234". Shown in contact section and resume.
-location: "San Francisco, CA"
+name: "Александрова Ксения Сергеевна"              # Your name — shown in the header and used as a fallback in the avatar
+title: "Бизнес-аналитик"
+tagline: "Учусь видеть бизнес через данные"
+email: "kseniya220303@mail.ru"
+phone: "+7(918)255-92-92"                    # Optional — e.g. "+1 (555) 000-1234". Shown in contact section and resume.
+location: "Новочеркасск, Ростовская область"
 avatarUrl: "https://api.dicebear.com/9.x/fun-emoji/svg?seed=Alex&mouth[]=wideSmile&radius=12"  # Demo avatar — replace with your own photo URL (see instructions below)
 # How to add a profile photo (free, no extra account needed):
 #   1. Go to your GitHub repo → click "Add file" → "Upload files"
